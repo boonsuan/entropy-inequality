@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this archived release."
+title: "boppana-entropy-lean"
+authors:
+  - family-names: "Ho"
+    given-names: "Boon Suan"
+repository-code: "https://github.com/boonsuan/entropy-inequality"
+license: "MIT"
+version: "v1.0.0"
+date-released: 2026-03-13
